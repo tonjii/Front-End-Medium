@@ -2,4 +2,4 @@
 
 ## Utilizando css e Html, engedrando novamente nas boas práticas de Front-End
 
-![Descrição da imagem](./medium/imagemFront)
+![Descrição da imagem](./medium/imagemFront.png)
