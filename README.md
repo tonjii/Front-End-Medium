@@ -2,7 +2,4 @@
 
 ## Utilizando css e Html, engedrando novamente nas boas práticas de Front-End
 
-<p align="center">
-  <img src="./imagemFront.png" width="600" alt="Imagem da interface do projeto">
-</p>
 <img width="1905" height="959" alt="image" src="https://github.com/user-attachments/assets/37558457-5a37-40b8-bf4b-89cafd7140d4" />
