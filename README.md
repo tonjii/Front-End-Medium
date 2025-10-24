@@ -2,5 +2,6 @@
 
 ## Utilizando css e Html, engedrando novamente nas boas práticas de Front-End
 
-![Imagem da interface do projeto](./imagemFront.png)
-
+<p align="center">
+  <img src="./ImagemFront.png" width="600" alt="Imagem da interface do projeto">
+</p>
